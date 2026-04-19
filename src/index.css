@@ -51,6 +51,12 @@ body,
   width: 100%;
 }
 
+.login-box input:focus,
+.search:focus {
+  border: 2px solid #fb8500;
+  transition: all 0.5s ease-in;
+}
+
 .dashboard {
   display: flex;
   justify-content: center;
