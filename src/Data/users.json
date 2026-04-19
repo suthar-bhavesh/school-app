@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "userType": "admin",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "language": "English",
+    "address": "Mumbai",
+    "standard": null,
+    "subjects": []
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "userType": "student",
+    "email": "rahul@gmail.com",
+    "password": "rahul123",
+    "language": "English",
+    "address": "Pune",
+    "standard": "10th",
+    "subjects": ["Maths", "Science"]
+  },
+  {
+    "id": 3,
+    "name": "Aman Gupta",
+    "userType": "student",
+    "email": "aman@gmail.com",
+    "password": "123456",
+    "language": "Hindi",
+    "address": "Pune",
+    "standard": "8th",
+    "subjects": ["Maths", "Science", "History"]
+  },
+  {
+    "id": 4,
+    "name": "Rahul Sharma",
+    "userType": "admin",
+    "email": "rahul.admin@gmail.com",
+    "password": "admin123",
+    "language": "English",
+    "address": "Mumbai",
+    "standard": null,
+    "subjects": []
+  },
+  {
+    "id": 5,
+    "name": "Priya Singh",
+    "userType": "student",
+    "email": "priya@gmail.com",
+    "password": "123456",
+    "language": "English",
+    "address": "Mumbai",
+    "standard": "9th",
+    "subjects": ["Maths", "English", "Geography"]
+  },
+
+  {
+    "id": 6,
+    "name": "Sneha Joshi",
+    "userType": "student",
+    "email": "sneha@gmail.com",
+    "password": "123456",
+    "language": "Marathi",
+    "address": "Nagpur",
+    "standard": "7th",
+    "subjects": ["History", "Geography", "English"]
+  },
+
+  {
+    "id": 7,
+    "name": "Arjun Mehta",
+    "userType": "student",
+    "email": "arjun@gmail.com",
+    "password": "123456",
+    "language": "English",
+    "address": "Bangalore",
+    "standard": "6th",
+    "subjects": ["Maths", "Science"]
+  },
+  {
+    "id": 8,
+    "name": "Kavya Reddy",
+    "userType": "student",
+    "email": "kavya@gmail.com",
+    "password": "123456",
+    "language": "Telugu",
+    "address": "Hyderabad",
+    "standard": "8th",
+    "subjects": ["English", "History", "Civics"]
+  },
+
+  {
+    "id": 9,
+    "name": "Mohit Yadav",
+    "userType": "student",
+    "email": "mohit@gmail.com",
+    "password": "123456",
+    "language": "Hindi",
+    "address": "Lucknow",
+    "standard": "9th",
+    "subjects": ["Maths", "Science", "Physics"]
+  },
+  {
+    "id": 10,
+    "name": "Neha Kapoor",
+    "userType": "student",
+    "email": "neha@gmail.com",
+    "password": "123456",
+    "language": "English",
+    "address": "Chandigarh",
+    "standard": "10th",
+    "subjects": ["Chemistry", "Biology", "English"]
+  }
+]
